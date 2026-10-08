@@ -1,2 +1,4 @@
 INC001 Product not visible
 INC002 Checkout failed
+INC003 Price mismatch
+INC004 Order submission failure
