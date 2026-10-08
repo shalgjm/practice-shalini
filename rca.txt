@@ -1,0 +1,8 @@
+Issue:
+Wrong prices displayed
+
+Investigation:
+Pricing API returned outdated data
+
+Resolution:
+Refresh pricing cache
